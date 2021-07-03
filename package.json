@@ -1,14 +1,14 @@
 {
-  "name": "davidbernegger",
-  "version": "1.4.1",
-  "description": "A personal card of David Bernegger inspired by Tierney Cyren (@bitandbang)",
+  "name": "antlis",
+  "version": "1.0",
+  "description": "A personal card of antlis inspired by Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidbernegger/bitandbang.git"
+    "url": "https://github.com/antlis/my-npm-card"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "David Bernegger",
+  "author": "antlis",
   "license": "MIT",
   "files": [
     "bin/card.js",

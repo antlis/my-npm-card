@@ -1,7 +1,7 @@
-It's me, David!
+It's me, antlis!
 
 # Usage
 Via npx:
 ```
-npx davidbernegger
+npx antlis
 ```

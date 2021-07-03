@@ -15,12 +15,12 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('               David Bernegger'),
-  handle: chalk.white('davidbernegger'),
+  name: chalk.white('               antlis'),
+  handle: chalk.white('antlis'),
   work: chalk.white('Builder at ToolSense'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('davidbernegger'),
-  github: chalk.gray('https://github.com/') + chalk.green('davidbernegger'),
-  npx: chalk.red('npx') + ' ' + chalk.white('davidbernegger'),
+  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('antlis5'),
+  github: chalk.gray('https://github.com/') + chalk.green('antlis'),
+  npx: chalk.red('npx') + ' ' + chalk.white('antlis'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
