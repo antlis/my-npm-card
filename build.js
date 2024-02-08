@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('                       antlis'),
   handle: chalk.white('antlis'),
-  work: chalk.white('Front-end developer at ToolSense'),
+  work: chalk.white('Front-end developer at MTS'),
   linkedin: chalk.gray('https://www.linkedin.com/in/') + chalk.cyan('antlis'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('antlis5'),
   github: chalk.gray('https://github.com/') + chalk.green('antlis'),
